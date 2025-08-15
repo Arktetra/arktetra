@@ -1,10 +1,10 @@
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arktetra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=arktetra&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arktetra&theme=vue-dark&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arktetra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arktetra&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)
 
 <!--
 **Arktetra/arktetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
