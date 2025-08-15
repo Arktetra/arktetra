@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arktetra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=arktetra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arktetra&theme=vue-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arktetra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **Arktetra/arktetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
